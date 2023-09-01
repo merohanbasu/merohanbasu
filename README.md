@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/merohanbasu](https://github.com/merohanbasu)
 
-- 💬 Ask me about **ML, C++, Python, Bash, Linux, SQL's**
+- 💬 Ask me about **ML, Salesforce, C++, Python, Bash, Linux, SQL's**
 
 - 📫 How to reach me **merohanbasu@gmail.com**
 
