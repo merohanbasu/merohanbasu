@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rohan Jyoti Basu</h1>
-<h3 align="center">A passionate Software Engineer who loves to code and learn new technologies.</h3>
+<h3 align="center">A passionate final-year student who loves to code and learn new technologies.</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Python**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/merohanbasu](https://github.com/merohanbasu)
 
-- 💬 Ask me about **ML, Salesforce, C++, Python, Bash, Linux, SQL's**
+- 💬 Ask me about **SQL, Data, C++, Python, Linux, Software**
 
 - 📫 How to reach me **merohanbasu@gmail.com**
 
